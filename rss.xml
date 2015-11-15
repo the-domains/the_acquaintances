@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the_acquaintances]]></title>
+        <description><![CDATA[the_acquaintances]]></description>
+        <link>https://thegrid.ai/the_acquaintances/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 16:22:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the_acquaintances/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Acquaintances]]></title>
+            <description><![CDATA[<article><h1>The Acquaintances</h1><p>home page</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4953130-e548-4a49-81e7-65468730d951.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the_acquaintances/fbd222c5-59a7-4d51-af7f-9aa8e3eddb8b/index.html</link>
+            <guid isPermaLink="false">fbd222c5-59a7-4d51-af7f-9aa8e3eddb8b</guid>
+            <pubDate>Sun, 15 Nov 2015 16:21:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
